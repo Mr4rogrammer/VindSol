@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "187024429051",
+    "firebase_url": "https://vindsql-14117-default-rtdb.firebaseio.com",
+    "project_id": "vindsql-14117",
+    "storage_bucket": "vindsql-14117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187024429051:android:818ab8f37ebb658fae855e",
+        "android_client_info": {
+          "package_name": "com.kk.vindsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187024429051-dqrjaorlm0444dqdtjg605a7javmn6sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kk.vindsol",
+            "certificate_hash": "fde2d99959aeef97d72704bb39230550078d1140"
+          }
+        },
+        {
+          "client_id": "187024429051-j0ooetg9nkhd9ll58ti6rt2nq74ffft5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kk.vindsol",
+            "certificate_hash": "e37a000628fee57a0e10981c85c11d69b0bc92ef"
+          }
+        },
+        {
+          "client_id": "187024429051-kad820tq394d1j9pbsq1d4v8oi3mmg17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kk.vindsol",
+            "certificate_hash": "ded07496a1a42439646c4cd205a07fe5e9060f25"
+          }
+        },
+        {
+          "client_id": "187024429051-kaaflnldrgjgdh9b94tf27vupnn7k0g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrn_nfoGMscJqKUnAtPpGoGlX7qUhXEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187024429051-kaaflnldrgjgdh9b94tf27vupnn7k0g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187024429051:android:ffe5d08fdcb7c489ae855e",
+        "android_client_info": {
+          "package_name": "com.mrprogrammer.vindsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187024429051-guung4vfl192s8tm6opqu0pekvq1umi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrprogrammer.vindsol",
+            "certificate_hash": "06077c6cba794980e57a789501228a0d3d266b5b"
+          }
+        },
+        {
+          "client_id": "187024429051-rv3v0li9hhuct5on1p2qcs7fr1vbp9ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrprogrammer.vindsol",
+            "certificate_hash": "ded07496a1a42439646c4cd205a07fe5e9060f25"
+          }
+        },
+        {
+          "client_id": "187024429051-ufflseskevljalr46nj6er75cld66ddj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrprogrammer.vindsol",
+            "certificate_hash": "d9c1f0e5dfbfeaee26b79780a56d1927c72c38a1"
+          }
+        },
+        {
+          "client_id": "187024429051-kaaflnldrgjgdh9b94tf27vupnn7k0g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrn_nfoGMscJqKUnAtPpGoGlX7qUhXEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187024429051-kaaflnldrgjgdh9b94tf27vupnn7k0g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

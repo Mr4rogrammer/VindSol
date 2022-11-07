@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VindSol Heat Pump</string>
+    <string-array name="type">
+        <item>Outdoor</item>
+        <item>Indoor</item>
+    </string-array>
+</resources>
